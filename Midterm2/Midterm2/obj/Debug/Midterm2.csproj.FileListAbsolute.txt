@@ -1,0 +1,6 @@
+D:\Miw\3Y\Programing\Midterm2\Midterm2\bin\Debug\Midterm2.exe.config
+D:\Miw\3Y\Programing\Midterm2\Midterm2\bin\Debug\Midterm2.exe
+D:\Miw\3Y\Programing\Midterm2\Midterm2\bin\Debug\Midterm2.pdb
+D:\Miw\3Y\Programing\Midterm2\Midterm2\obj\Debug\Midterm2.csproj.CoreCompileInputs.cache
+D:\Miw\3Y\Programing\Midterm2\Midterm2\obj\Debug\Midterm2.exe
+D:\Miw\3Y\Programing\Midterm2\Midterm2\obj\Debug\Midterm2.pdb
